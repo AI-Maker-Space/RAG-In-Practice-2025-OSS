@@ -1,3 +1,5 @@
+# Best Practice RAG Stack - OSS/On-Prem
+
 While 2025 might be the year of agents for AI Engineers, it’s the year of practical RAG for enterprise and AI Engineering leaders.
 
 In other words, RAG is table stakes; it’s a best-practice. If your organization isn’t even experimenting with RAG today, you’re behind.  
@@ -18,7 +20,7 @@ We’ll explore:
 
 - 🎺 Our pick for the best **orchestration framework**: LangChain’s LangGraph
 - ↗️ Our pick for the best **vector database**: QDrant
-- 📊 Our pick for the best way to enhance retrieval out of the box: Cohere’s Rerank
+- 📊 Our pick for the best way to enhance retrieval out of the box: Reranking!
 - 📐 Our pick for the best **evaluation framework**: RAGAS
 
 We will also review some less controversial best-practices, including:
